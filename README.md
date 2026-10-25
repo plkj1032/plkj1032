@@ -80,7 +80,7 @@ Spring 기반 REST API와 데이터 처리, WebSocket 실시간 통신 기능을
 
 **설계 관점:** 화면의 입력 제한만 믿지 않고 서버의 일기 작성 정책을 검증했으며, 행동 완료와 재측정 결과가 서로 어긋나지 않도록 데이터 처리 단위를 고려했습니다.
 
-🎬 [팀 전체 시연 영상](https://youtu.be/KhvVEx4mxlc) · [Notion 상세보기](https://www.notion.so/404f533a052381a289dcc8732985a530)
+🎬 [팀 전체 시연 영상](https://youtu.be/KhvVEx4mxlc) · [Notion 상세보기](https://placid-literature-646.notion.site/Mood-Move-404f533a052381a289dcc8732985a530?source=copy_link)
 
 ---
 
@@ -98,7 +98,7 @@ Spring 기반 REST API와 데이터 처리, WebSocket 실시간 통신 기능을
 
 **트러블슈팅:** 애플리케이션 인스턴스별로 관리되는 WebSocket 연결 때문에 이벤트가 다른 서버의 사용자에게 자동 전파되지 않는 문제를 경험했습니다. Redis Pub/Sub으로 서버 간 이벤트를 전달하고, MySQL은 채팅 기록 저장용으로 구분했습니다.
 
-[Notion 상세보기](https://www.notion.so/3e1f533a052381649546dc5ab2dac5e7)
+[Notion 상세보기](https://placid-literature-646.notion.site/MeetBack-3e1f533a052381649546dc5ab2dac5e7?source=copy_link)
 
 ---
 
