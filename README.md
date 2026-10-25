@@ -116,7 +116,7 @@ Spring 기반 REST API와 데이터 처리, WebSocket 실시간 통신 기능을
 
 현재 개발 중인 프로젝트로, 완료·검증한 기능에 맞춰 내용을 계속 갱신하고 있습니다.
 
-[Notion 상세보기](https://www.notion.so/404f533a0523813d9ba5cdd2c8c15513)
+[Notion 상세보기](https://placid-literature-646.notion.site/SPOILOCK-404f533a0523813d9ba5cdd2c8c15513?source=copy_link)
 
 ---
 
