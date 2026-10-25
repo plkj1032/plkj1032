@@ -7,7 +7,7 @@
 Spring 기반 REST API와 데이터 처리, WebSocket 실시간 통신 기능을 구현했습니다.  
 단순히 기능을 완성하는 데 그치지 않고 **동작 원리와 데이터 일관성**을 고민합니다.
 
-[![Notion Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/3e1f533a052381e8ba3ef68215b6f743)
+[![Notion Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://placid-literature-646.notion.site/3e1f533a052381e8ba3ef68215b6f743)
 [![GitHub](https://img.shields.io/badge/GitHub-plkj1032-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/plkj1032)
 
 </div>
@@ -58,7 +58,7 @@ Spring 기반 REST API와 데이터 처리, WebSocket 실시간 통신 기능을
 
 ## 📂 Portfolio
 
-📚 **[Notion | 상세 개발 포트폴리오](https://www.notion.so/3e1f533a052381e8ba3ef68215b6f743)**  
+📚 **[Notion | 상세 개발 포트폴리오](https://placid-literature-646.notion.site/3e1f533a052381e8ba3ef68215b6f743)**  
 프로젝트 소개, 시연 영상, 개인 담당 기능 및 트러블슈팅을 정리했습니다.
 
 ---
@@ -155,6 +155,6 @@ Camera·Wi-Fi·LAN 기능 검증 및 정상 SDK와 제품 설정 비교를 통�
 
 **기능 구현부터 결과 검증까지 고민하는 백엔드 개발자**
 
-[📚 Notion Portfolio](https://www.notion.so/3e1f533a052381e8ba3ef68215b6f743)
+[📚 Notion Portfolio](https://placid-literature-646.notion.site/3e1f533a052381e8ba3ef68215b6f743)
 
 </div>
