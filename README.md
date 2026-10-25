@@ -98,7 +98,7 @@ Spring 기반 REST API와 데이터 처리, WebSocket 실시간 통신 기능을
 
 **트러블슈팅:** 애플리케이션 인스턴스별로 관리되는 WebSocket 연결 때문에 이벤트가 다른 서버의 사용자에게 자동 전파되지 않는 문제를 경험했습니다. Redis Pub/Sub으로 서버 간 이벤트를 전달하고, MySQL은 채팅 기록 저장용으로 구분했습니다.
 
-[Notion 상세보기](https://placid-literature-646.notion.site/MeetBack-3e1f533a052381649546dc5ab2dac5e7?source=copy_link)
+🎬 [MeetBack 시연 영상](https://youtu.be/kyOFVK_VOP8) · [Notion 상세보기](https://placid-literature-646.notion.site/MeetBack-3e1f533a052381649546dc5ab2dac5e7?source=copy_link)
 
 ---
 
